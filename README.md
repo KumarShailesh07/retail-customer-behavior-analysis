@@ -1,4 +1,4 @@
-# 🛍️ Customer Behavior Analysis Dashboard
+# 🛍️ Retail Customer Behavior Analysis
 
 > An end-to-end Data Analytics project built using Python, SQL Server, and Power BI to analyze customer purchasing behavior, identify revenue drivers, evaluate subscription adoption, and uncover opportunities for business growth.
 
